@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "Test15527"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "4ffa59f0-da0e-463e-bf6e-785ea3706faf"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-WestUS"
+  }
+}
